@@ -21,3 +21,19 @@ This repository documents my daily activities and progress as I explore new tech
     *   Downloaded and installed the Gemini CLI.
     *   Following the initial steps from the GitHub repository.
     *   Initialized this `README.md` to track my journey.
+
+### Phase 3: Resume Time
+*   **Showcase C Programming Skills:**
+    *   #include the Standard Input Output Library
+    *   printf everything that is a standard line with any resume form
+    *   learn about \n\n to add spacing
+    *   research and add print seperator
+    *   Format properly
+    *   Add some Colored Headers and include ANSI Colors
+    *   Be sure to define as a functional
+    *   cc resume.c
+    *   ./a/out
+    *   Add Typing visual function
+    *   cc resume.c
+    *   ./a.out
+    
