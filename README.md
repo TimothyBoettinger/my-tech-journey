@@ -32,7 +32,7 @@ This repository documents my daily activities and progress as I explore new tech
     *   Add some Colored Headers and include ANSI Colors
     *   Be sure to define as a functional
     *   cc resume.c
-    *   ./a/out
+    *   ./a.out
     *   Add Typing visual function
     *   cc resume.c
     *   ./a.out
